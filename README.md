@@ -24,4 +24,6 @@ Here are some ideas to get you started:
 - I've a 🐈 **simba**.
 - I ❤️ memes.
 
-> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayatri05&count_private=true&show_icons=true&theme=dracula&hide=stars&custom_title=myRepoStats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayatri05&count_private=true&show_icons=true&theme=dracula&hide=stars&custom_title=myRepoStats)
+
+> **If you torture the data long enough, it will confess.** — Ronald Coase
