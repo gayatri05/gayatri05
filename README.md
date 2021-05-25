@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 - 👩‍💻 Experienced Informatica Developer - PowerCenter & BigDataQuality
 - 💬 Ask me about - Informatica,BigData Technologies[hive,sqoop,Pig]
 ### 💻Working on
-- 🌱 I’m currently learning - Python ML libraries,BigData Technologies[spark,flume]
+- 🌱 I’m currently learning - Python ML libraries,BigData Technologies[spark,scala]
 ### 📫 Find me here
   * [**twitter**](https://twitter.com/GurramGayatri) 
   * [**linkedin**](linkedin.com/in/GurramGayatri/)
 ### ⚡ Fun fact[s]: 
 - I've a 🐈 **simba**.
 - I ❤️ memes.
-#### GitHub Stats
-> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayatri05&count_private=true&show_icons=true&theme=cobalt)
+
+> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayatri05&count_private=true&show_icons=true&theme=dracula&hide=stars&custom_title=myRepoStats)
