@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with - practical Datascience projects
 - 📫 How to reach me:  [**twitter**](https://twitter.com/GurramGayatri) [**linkedin**](linkedin.com/in/GurramGayatri/)
 - ⚡ Fun fact: I've a cat **simba** is his name.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayatri05)](https://github.com/anuraghazra/github-readme-stats)
