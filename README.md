@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning - Python ML libraries,BigData Technologies[spark,scala]
 ### 📫 Find me here
   * [**twitter**](https://twitter.com/GurramGayatri) 
-  * [**linkedin**](linkedin.com/in/GurramGayatri/)
+  * [**linkedin**](https://linkedin.com/in/GurramGayatri/)
 ### ⚡ Fun fact[s]: 
 - I've a 🐈 **simba**.
 - I ❤️ memes.
